@@ -1,10 +1,5 @@
 <h1 align="center">Advanced Auth Tutorial 🔒 </h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
-
-
-About This Course:
-
 -   🔧 Backend Setup
 -   🗄️ Database Setup
 -   🔐 Signup Endpoint
